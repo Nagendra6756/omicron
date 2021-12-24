@@ -1,0 +1,1 @@
+Sentiment analysis of the Omicron variant: Recently, the Omicron variant was found as the latest mutation of covid-19. When the WHO declared this variant as a variant of concern, it sparked an outbreak of tweets about this variant on Twitter. So you can analyze the sentiments of these tweets to find what people shared so much about this variant. 
